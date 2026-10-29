@@ -1,0 +1,4 @@
+-keep class com.pe.tracker.data.** { *; }
+-keep class com.google.android.gms.maps.model.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
